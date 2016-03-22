@@ -54,7 +54,7 @@
       <file leaf-file-name="tsconfig.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/db/tsconfig.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39915967">
+            <state vertical-scroll-proportion="0.10504202">
               <caret line="1413" column="24" selection-start-line="1413" selection-start-column="24" selection-end-line="1413" selection-end-column="24" />
               <folding />
             </state>
@@ -521,7 +521,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/db/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39915967">
+        <state vertical-scroll-proportion="0.10504202">
           <caret line="1413" column="24" selection-start-line="1413" selection-start-column="24" selection-end-line="1413" selection-end-column="24" />
           <folding />
         </state>
