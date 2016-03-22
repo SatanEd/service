@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="stylesheets/reset.css" type="text/css" />
+  <link rel="stylesheet" href="stylesheets/style.css" type="text/css" />
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,300,300italic,500,700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600' rel='stylesheet' type='text/css'>
+  <title>Servers</title>
+</head>
+
+<body>
+
+<header>
+  <nav>
+    <a href="#">List</a>
+    <a href="#">Edit</a>
+  </nav>
+</header>
+
+<section id="st_lst_wrapper">
+  <div id="st_lst_inner">
+    <h1>Servers | Domains</h1>
+    <hr class=divider>
+
+    <ul class="server">
+
+
+      <%
+      var list = Object.keys(srvList);
+
+
+          for (var i = 0; i<list.length; i++) {
+          var domList = Object.keys(srvList[list[i]]);
+      %>
+            <li class="lst_title">
+            <%- list[i]%>
+            </li>
+            <li>
+                <ul class="domains_lst">
+                    <% for (var z = 0; z<domList.length; z++) { %>
+                    <% if ( domList[z] != "description" ) { %>
+                    <li>
+                        <div class="domain_wrapp">
+                            <a href="<%= srvList[list[i]][domList[z]]["linkTo"]%>" target="_blank"><%= srvList[list[i]][domList[z]]["linkTo"]%></a>
+                            <button class="spd_tst">Speed test</button>
+
+                            <p class="description description_link">
+                                    More info
+                            </p>
+
+                          <% if ( typeof srvList[list[i]][domList[z]]["subdirs"]  == "object" ) {%>
+                            <% var subdirs = srvList[list[i]][domList[z]]["subdirs"], sudirsKeys = Object.keys(subdirs); %>
+                                <ul class="subd_lst">
+                                    <% for ( var cc = 0; cc<sudirsKeys.length; cc++ ) { %>
+                                        <li>
+                                            <a href="<%= subdirs[sudirsKeys[cc]]['linkTo'] %>"><%= sudirsKeys[cc]%></a>
+                                            <button class="spd_tst">Speed test</button>
+                                        </li>
+                                    <% } %>
+                                </ul>
+                          <% } %>
+                        </div>
+                    </li>
+        <% } %>
+        <% } %>
+                </ul>
+            </li>
+      <% } %>
+
+
+      <!--<li class="lst_title">192.168.0.1</li>-->
+      <!--<li>-->
+        <!--<ul class="domains_lst">-->
+          <!--<li>-->
+            <!--<div class="domain_wrapp">-->
+              <!--<a href="http://ro.bunion-fix.com" target="_blank">http://ro.bunion-fix.com</a>-->
+              <!--<button class="spd_tst">Speed test</button>-->
+
+              <!--<ul class="description">-->
+                <!--<li>-->
+                  <!--<a class="description_link" href="#descr1">More info</a>-->
+                  <!--<div class="dscr_info" id="descr1">-->
+                    <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae, veritatis, sapiente, ratione maxime vel accusamus eaque iure omnis magni neque architecto numquam adipisci expedita aliquam voluptas facilis deleniti quod labore?</p>-->
+                  <!--</div>-->
+                <!--</li>-->
+              <!--</ul>-->
+            <!--</div>-->
+            <!--<ul class="subd_lst">-->
+              <!--<li>-->
+                <!--<a href="http://ro.bunion-fix.com/collapro">/collapro</a>-->
+                <!--<button class="spd_tst">Speed test</button>-->
+
+                <!--<ul class="description">-->
+                  <!--<li>-->
+                    <!--<a class="description_link" href="#descr2">More info</a>-->
+                    <!--<div class="dscr_info" id="descr2">-->
+                      <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae, veritatis, sapiente, ratione maxime vel accusamus eaque iure omnis magni neque architecto numquam adipisci expedita aliquam voluptas facilis deleniti quod labore?</p>-->
+                    <!--</div>-->
+                  <!--</li>-->
+                <!--</ul>-->
+              <!--</li>-->
+              <!--<li>-->
+                <!--<a href="http://ro.bunion-fix.com/goji-tr">/goji-tr</a>-->
+                <!--<button class="spd_tst">Speed test</button>-->
+
+                <!--<ul class="description">-->
+                  <!--<li>-->
+                    <!--<a class="description_link" href="#descr3">More info</a>-->
+                    <!--<div class="dscr_info" id="descr3">-->
+                      <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae, veritatis, sapiente, ratione maxime vel accusamus eaque iure omnis magni neque architecto numquam adipisci expedita aliquam voluptas facilis deleniti quod labore?</p>-->
+                    <!--</div>-->
+                  <!--</li>-->
+                <!--</ul>-->
+              <!--</li>-->
+            <!--</ul>-->
+          <!--</li>-->
+          <!--<li>-->
+            <!--<div class="domain_wrapp">-->
+              <!--<a href="http://ro.bunion-fix.com" target="_blank">http://collapro.com</a>-->
+              <!--<button class="spd_tst">Speed test</button>-->
+
+              <!--<ul class="description">-->
+                <!--<li>-->
+                  <!--<a class="description_link" href="#descr1">More info</a>-->
+                  <!--<div class="dscr_info" id="descr1">-->
+                    <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae, veritatis, sapiente, ratione maxime vel accusamus eaque iure omnis magni neque architecto numquam adipisci expedita aliquam voluptas facilis deleniti quod labore?</p>-->
+                  <!--</div>-->
+                <!--</li>-->
+              <!--</ul>-->
+            <!--</div>-->
+            <!--<ul class="subd_lst">-->
+              <!--<li>-->
+                <!--<a href="http://ro.bunion-fix.com/collapro">/collapro</a>-->
+                <!--<button class="spd_tst">Speed test</button>-->
+
+                <!--<ul class="description">-->
+                  <!--<li>-->
+                    <!--<a class="description_link" href="#descr2">More info</a>-->
+                    <!--<div class="dscr_info" id="descr2">-->
+                      <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae, veritatis, sapiente, ratione maxime vel accusamus eaque iure omnis magni neque architecto numquam adipisci expedita aliquam voluptas facilis deleniti quod labore?</p>-->
+                    <!--</div>-->
+                  <!--</li>-->
+                <!--</ul>-->
+              <!--</li>-->
+              <!--<li>-->
+                <!--<a href="http://ro.bunion-fix.com/goji-tr">/goji-tr</a>-->
+                <!--<button class="spd_tst">Speed test</button>-->
+
+                <!--<ul class="description">-->
+                  <!--<li>-->
+                    <!--<a class="description_link" href="#descr3">More info</a>-->
+                    <!--<div class="dscr_info" id="descr3">-->
+                      <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae, veritatis, sapiente, ratione maxime vel accusamus eaque iure omnis magni neque architecto numquam adipisci expedita aliquam voluptas facilis deleniti quod labore?</p>-->
+                    <!--</div>-->
+                  <!--</li>-->
+                <!--</ul>-->
+              <!--</li>-->
+            <!--</ul>-->
+          <!--</li>-->
+        <!--</ul>-->
+      <!--</li>-->
+    </ul>
+  </div>
+</section>
+
+</body>
+</html>

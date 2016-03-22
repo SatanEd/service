@@ -1,0 +1,1778 @@
+{
+  "srvList": {
+    "146.185.173.119": {
+      "description": "null",
+      "slabeste.cafeaverde.co": {
+        "description": "null",
+        "linkTo": "http://slabeste.cafeaverde.co/"
+      },
+      "fitexpress.co": {
+        "description": "null",
+        "linkTo": "http://fitexpress.co/"
+      },
+      "cafeaverde.co": {
+        "description": "null",
+        "linkTo": "http://cafeaverde.co/"
+      },
+      "womanblog.me": {
+        "description": "null",
+        "linkTo": "http://womanblog.me/",
+        "subdirs": {
+          "/ec1": {
+            "description": "(eyesmask,PRE-L)",
+            "linkTo": "http://womanblog.me/ec1"
+          },
+          "/ec2": {
+            "description": "(eyesmask,PRE-L)",
+            "linkTo": "http://womanblog.me/ec2"
+          },
+          "/andra._old": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://womanblog.me/andra._old"
+          },
+          "/katerina3._old": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://womanblog.me/katerina3._old"
+          },
+          "/tata_old": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://womanblog.me/tata_old"
+          },
+          "/kat._old": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://womanblog.me/kat._old"
+          },
+          "/katerina4._old": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://womanblog.me/katerina4._old"
+          },
+          "/tatiana-sk": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://womanblog.me/tatiana-sk"
+          },
+          "/katerina._old": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://womanblog.me/katerina._old"
+          },
+          "/ozana._old": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://womanblog.me/ozana._old"
+          },
+          "/vanesa._old": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://womanblog.me/vanesa._old"
+          },
+          "/katerina2._old": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://womanblog.me/katerina2._old"
+          },
+          "/tata-rybakova._old": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://womanblog.me/tata-rybakova._old"
+          },
+          "/zenax._old": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://womanblog.me/zenax._old"
+          }
+        }
+      }
+    },
+    "178.62.244.157": {
+      "description": "null",
+      "bg.juicylips.net": {
+        "description": "null",
+        "linkTo": "http://bg.juicylips.net/"
+      },
+      "femeiadesucces.com": {
+        "description": "null",
+        "linkTo": "http://femeiadesucces.com/",
+        "subdirs": {
+          "/alexandra": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://femeiadesucces.com/alexandra"
+          },
+          "/dana": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://femeiadesucces.com/dana"
+          },
+          "/garcinia-sonya": {
+            "description": "(Garcinia Cambogia,PRE-L)",
+            "linkTo": "http://femeiadesucces.com/garcinia-sonya"
+          },
+          "/narcisa": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://femeiadesucces.com/narcisa"
+          },
+          "/raluca2": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://femeiadesucces.com/raluca2"
+          },
+          "/alina_blog": {
+            "description": "(SOSU,PRE-L)",
+            "linkTo": "http://femeiadesucces.com/alina_blog"
+          },
+          "/georgeta_blog": {
+            "description": "(SOSU,PRE-L)",
+            "linkTo": "http://femeiadesucces.com/georgeta_blog"
+          },
+          "/otilia_blog": {
+            "description": "(SOSU,PRE-L)",
+            "linkTo": "http://femeiadesucces.com/otilia_blog"
+          },
+          "/stoica": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://femeiadesucces.com/stoica",
+            "subdirs": {
+              "/1": {
+                "discription": "null",
+                "linkTo": "http://femeiadesucces.com/stoica/1"
+              },
+              "/2": {
+                "discription": "null",
+                "linkTo": "http://femeiadesucces.com/stoica/2"
+              },
+              "/3": {
+                "discription": "null",
+                "linkTo": "http://femeiadesucces.com/stoica/3"
+              }
+            }
+          },
+          "/blog_pedichiura": {
+            "description": "(SOSU,PRE-L)",
+            "linkTo": "http://femeiadesucces.com/blog_pedichiura"
+          },
+          "/garcinia-elena": {
+            "description": "(Garcinia Cambogia,PRE-L)",
+            "linkTo": "http://femeiadesucces.com/garcinia-elena"
+          },
+          "/ozana": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://femeiadesucces.com/ozana"
+          },
+          "/tincuta": {
+            "description": "(MEGA HAIR,PRE-L)",
+            "linkTo": "http://femeiadesucces.com/tincuta"
+          },
+          "/cobzac": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://femeiadesucces.com/cobzac"
+          },
+          "/garcinia-florentina": {
+            "description": "(Garcinia Cambogia,PRE-L)",
+            "linkTo": "http://femeiadesucces.com/garcinia-florentina"
+          },
+          "/maria": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://femeiadesucces.com/maria"
+          },
+          "/raluca": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://femeiadesucces.com/raluca"
+          }
+        }
+      },
+      "problogpersonal.com": {
+        "description": "null",
+        "linkTo": "http://problogpersonal.com/",
+        "subdirs": {
+          "/gumblg": {
+            "description": "(Diet Gum,PRE-L)",
+            "linkTo": "http://problogpersonal.com/gumblg"
+          },
+          "/muscle1": {
+            "description": "(MuscleG,PRE-L)",
+            "linkTo": "http://problogpersonal.com/muscle1"
+          },
+          "/roxy1": {
+            "description": "(Fructele Goji,PRE-L)",
+            "linkTo": "http://problogpersonal.com/roxy1"
+          },
+          "/roxy2": {
+            "description": "(Fructele Goji,PRE-L)",
+            "linkTo": "http://problogpersonal.com/roxy2"
+          },
+          "/stoica-md": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://problogpersonal.com/stoica-md"
+          },
+          "/stoica6": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://problogpersonal.com/stoica6"
+          },
+          "/stoicaB": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://problogpersonal.com/stoicaB"
+          },
+          "/raluca": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://problogpersonal.com/raluca"
+          },
+          "/stoica3": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://problogpersonal.com/stoica3"
+          },
+          "/stoica7": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://problogpersonal.com/stoica7"
+          },
+          "/stoicaD": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://problogpersonal.com/stoicaD"
+          },
+          "/maria": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://problogpersonal.com/maria"
+          },
+          "/roxy": {
+            "description": "(Fructele Goji,PRE-L)",
+            "linkTo": "http://problogpersonal.com/roxy"
+          },
+          "/stoica": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://problogpersonal.com/stoica"
+          },
+          "/stoica5": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://problogpersonal.com/stoica5"
+          },
+          "/stoicaA": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://problogpersonal.com/stoicaA"
+          },
+          "/stoicaex": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://problogpersonal.com/stoicaex"
+          }
+        }
+      },
+      "ro.juicylips.net": {
+        "description": "null",
+        "linkTo": "http://ro.juicylips.net/"
+      },
+      "cafeaverde.co": {
+        "description": "null",
+        "linkTo": "http://cafeaverde.co/"
+      },
+      "femeicuidei.com": {
+        "description": "null",
+        "linkTo": "http://femeicuidei.com/",
+        "subdirs": {
+          "/bust-cristina": {
+            "description": "(Bust Cream Spa,PRE-L)",
+            "linkTo": "http://femeicuidei.com/"
+          },
+          "/cafea": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://femeicuidei.com/"
+          },
+          "/cafeae": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://femeicuidei.com/"
+          },
+          "/dumi": {
+            "description": "(Derma Roller,PRE-L)",
+            "linkTo": "http://femeicuidei.com/"
+          },
+          "/ec1": {
+            "description": "(Eyes Cover,PRE-L)",
+            "linkTo": "http://femeicuidei.com/"
+          },
+          "/ec2": {
+            "description": "(Eyes Cover,PRE-L)",
+            "linkTo": "http://femeicuidei.com/"
+          },
+          "/stoica": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://femeicuidei.com/"
+          }
+        }
+      },
+      "produsdeslabit.com": {
+        "description": "null",
+        "linkTo": "http://produsdeslabit.com/",
+        "subdirs": {
+          "/cafea-old": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://produsdeslabit.com/cafea-old"
+          },
+          "/cafeaverde-new": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://produsdeslabit.com/cafeaverde-new"
+          },
+          "/garcinia": {
+            "description": "(Garcinia Cambogia,L)",
+            "linkTo": "http://produsdeslabit.com/garcinia"
+          },
+          "/promo": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://produsdeslabit.com/promo"
+          },
+          "/cafea": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://produsdeslabit.com/cafea"
+          },
+          "/cafeaverde": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://produsdeslabit.com/cafeaverde"
+          },
+          "/castan": {
+            "description": "(Castan tropical,L)",
+            "linkTo": "http://produsdeslabit.com/castan"
+          },
+          "/goji": {
+            "description": "(Fructele Goji,PRE-L)",
+            "linkTo": "http://produsdeslabit.com/goji"
+          },
+          "/test": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://produsdeslabit.com/test"
+          }
+        }
+      },
+      "solutiipractice.com": {
+        "description": "null",
+        "linkTo": "http://solutiipractice.com/",
+        "subdirs": {
+          "/goji-tr": {
+            "description": "(Fructele Goji,PRE-L)",
+            "linkTo": "http://solutiipractice.com/goji-tr"
+          },
+          "/hairlife2": {
+            "description": "(MEGA HAIR,L)",
+            "linkTo": "http://solutiipractice.com/hairlife2"
+          },
+          "/m.dietgum": {
+            "description": "(dietgum mobile,L)",
+            "linkTo": "http://solutiipractice.com/m.dietgum"
+          },
+          "/dietgum": {
+            "description": "(dietgum,L)",
+            "linkTo": "http://solutiipractice.com/dietgum"
+          },
+          "/hairlife": {
+            "description": "(MEGA HAIR,L)",
+            "linkTo": "http://solutiipractice.com/hairlife"
+          },
+          "/sosusocks": {
+            "description": "(SOSU,L)",
+            "linkTo": "http://solutiipractice.com/sosusocks"
+          }
+        }
+      },
+      "cz.juicylips.net": {
+        "description": "null",
+        "linkTo": "http://cz.juicylips.net/"
+      },
+      "greencoffe.ro": {
+        "description": "null",
+        "linkTo": "http://greencoffe.ro/",
+        "subdirs": {
+          "/blog": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://greencoffe.ro/blog"
+          },
+          "/andreea": {
+            "description": "null",
+            "linkTo": "http://greencoffe.ro/andreea"
+          },
+          "/dana": {
+            "description": "null",
+            "linkTo": "http://greencoffe.ro/dana"
+          },
+          "/ginger": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://greencoffe.ro/ginger"
+          },
+          "/v1": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://greencoffe.ro/v1"
+          },
+          "/v3": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://greencoffe.ro/v3"
+          },
+          "/v2": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://greencoffe.ro/v2"
+          }
+        }
+      },
+      "ro-dermaroller.com": {
+        "description": "null",
+        "linkTo": "http://ro-dermaroller.com/"
+      },
+      "style-ro.com": {
+        "description": "null",
+        "linkTo": "http://style-ro.com/",
+        "subdirs": {
+          "/bunionfix": {
+            "description": "(bunionfix,L)",
+            "linkTo": "http://style-ro.com/bunionfix"
+          },
+          "/ecig": {
+            "description": "(Ganoderma,PRE-L)",
+            "linkTo": "http://style-ro.com/ecig"
+          },
+          "/eyesmask": {
+            "description": "(Beauty Eyes,L)",
+            "linkTo": "http://style-ro.com/eyesmask"
+          },
+          "/eyesmask2": {
+            "description": "(Beauty Eyes,L)",
+            "linkTo": "http://style-ro.com/eyesmask2"
+          },
+          "/maxpotent": {
+            "description": "(maxpotent,L) bad",
+            "linkTo": "http://style-ro.com/maxpotent"
+          },
+          "/sleepmask": {
+            "description": "(Easy Dreams,L)",
+            "linkTo": "http://style-ro.com/sleepmask"
+          },
+          "/sleepmask2": {
+            "description": "(Easy Dreams,L)",
+            "linkTo": "http://style-ro.com/sleepmask2"
+          },
+          "/dietgum": {
+            "description": "(dietgum,L)",
+            "linkTo": "http://style-ro.com/dietgum"
+          },
+          "/eyescover": {
+            "description": "(eyescover,L)",
+            "linkTo": "http://style-ro.com/eyescover"
+          },
+          "/m.sleepmask": {
+            "description": "(sleepmask mobile,L)",
+            "linkTo": "http://style-ro.com/m.sleepmask"
+          },
+          "/muscleg": {
+            "description": "(muscleg,L)",
+            "linkTo": "http://style-ro.com/muscleg"
+          },
+          "/muscleg-pl": {
+            "description": "(muscleg,PRE-L)",
+            "linkTo": "http://style-ro.com/muscleg-pl"
+          },
+          "/test": {
+            "description": "(muscleg Verde,PRE-L)",
+            "linkTo": "http://style-ro.com/test"
+          }
+        }
+      },
+      "eyescovers.com": {
+        "description": "null",
+        "linkTo": "http://eyescovers.com/",
+        "subdirs": {
+          "/bg": {
+            "description": "(eyescovers,PRE-L)",
+            "linkTo": "http://eyescovers.com/bg"
+          },
+          "/cz": {
+            "description": "(eyescovers,PRE-L)",
+            "linkTo": "http://eyescovers.com/cz"
+          },
+          "/md1-ro": {
+            "description": "(eyescovers,PRE-L)",
+            "linkTo": "http://eyescovers.com/md1-ro"
+          },
+          "/ro1": {
+            "description": "(eyescovers,PRE-L)",
+            "linkTo": "http://eyescovers.com/ro1"
+          },
+          "/ro2": {
+            "description": "(eyescovers,PRE-L)",
+            "linkTo": "http://eyescovers.com/ro2"
+          },
+          "/sk": {
+            "description": "(eyescovers,PRE-L)",
+            "linkTo": "http://eyescovers.com/sk"
+          }
+        }
+      },
+      "ro.bunion-fix.com": {
+        "description": "null",
+        "linkTo": "http://ro.bunion-fix.com/"
+      }
+    },
+    "178.62.244.202": {
+      "description": "null",
+      "bg.muscleg.com": {
+        "description": "null",
+        "linkTo": "http://bg.muscleg.com/"
+      },
+      "happydog.md": {
+        "description": "null",
+        "linkTo": "http://happydog.md/",
+        "subdirs": {
+          "/ro": {
+            "description": "null",
+            "linkTo": "http://happydog.md/ro"
+          }
+        }
+      },
+      "happycat.md": {
+        "description": "null",
+        "linkTo": "http://happycat.md/",
+        "subdirs": {
+          "/ro": {
+            "description": "null",
+            "linkTo": "http://happycat.md/ro"
+          }
+        }
+      },
+      "ro.muscleg.com": {
+        "description": "null",
+        "linkTo": "http://ro.muscleg.com"
+      },
+      "md-dermaroller.com": {
+        "description": "null",
+        "linkTo": "http://md-dermaroller.com/",
+        "subdirs": {
+          "/old": {
+            "description": "(dermaroller,L)",
+            "linkTo": "http://md-dermaroller.com/old"
+          },
+          "/vr2": {
+            "description": "(void)",
+            "linkTo": "http://md-dermaroller.com/vr2"
+          },
+          "/lubslabire.com": {
+            "description": "null",
+            "linkTo": "http://md-dermaroller.com/lubslabire.com"
+          },
+          "/cafea": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://md-dermaroller.com/cafea"
+          },
+          "/dietgum2": {
+            "description": "(dietgum,L)",
+            "linkTo": "http://md-dermaroller.com/dietgum2"
+          },
+          "/goji": {
+            "description": "(Fructele Goji,L)",
+            "linkTo": "http://md-dermaroller.com/goji"
+          },
+          "/goji-ru": {
+            "description": "(Fructele Goji,L)",
+            "linkTo": "http://md-dermaroller.com/goji-ru"
+          },
+          "/goji-ru1": {
+            "description": "(Fructele Goji,L)",
+            "linkTo": "http://md-dermaroller.com/goji-ru1"
+          },
+          "/goji-ru2": {
+            "description": "(Fructele Goji,L)",
+            "linkTo": "http://md-dermaroller.com/goji-ru2"
+          },
+          "/goji-ru3": {
+            "description": "(Fructele Goji,L)",
+            "linkTo": "http://md-dermaroller.com/goji-ru3"
+          },
+          "/goji-ru4": {
+            "description": "(Fructele Goji,L)",
+            "linkTo": "http://md-dermaroller.com/goji-ru4"
+          },
+          "/goji-ru5": {
+            "description": "(Fructele Goji,L)",
+            "linkTo": "http://md-dermaroller.com/goji-ru5"
+          },
+          "/goji-ru6": {
+            "description": "(Fructele Goji,L)",
+            "linkTo": "http://md-dermaroller.com/goji-ru6"
+          },
+          "/goji-ru7": {
+            "description": "(Fructele Goji,L)",
+            "linkTo": "http://md-dermaroller.com/goji-ru7"
+          },
+          "/goji-ru8": {
+            "description": "(Fructele Goji,L)",
+            "linkTo": "http://md-dermaroller.com/goji-ru8"
+          },
+          "/goji-ru9": {
+            "description": "(Fructele Goji,L)",
+            "linkTo": "http://md-dermaroller.com/goji-ru9"
+          },
+          "/goji-ru10": {
+            "description": "(Fructele Goji,L)",
+            "linkTo": "http://md-dermaroller.com/goji-ru10"
+          },
+          "/valguspro-old": {
+            "description": "(Fructele Goji,L)",
+            "linkTo": "http://md-dermaroller.com/valguspro-old"
+          },
+          "/cafea-ru": {
+            "description": "(Fructele Goji,L)",
+            "linkTo": "http://md-dermaroller.com/cafea-ru"
+          },
+          "/garcinia-aleona": {
+            "description": "(Fructele Goji,PRE-L)",
+            "linkTo": "http://md-dermaroller.com/garcinia-aleona"
+          },
+          "/cafea2": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://md-dermaroller.com/cafea2"
+          },
+          "/garcinia-elena": {
+            "description": "(Fructele Goji,PRE-L)",
+            "linkTo": "http://md-dermaroller.com/garcinia-elena"
+          },
+          "/test": {
+            "description": "(void)",
+            "linkTo": "http://md-dermaroller.com/test"
+          },
+          "/castan-ro": {
+            "description": "(Castan tropical,L)",
+            "linkTo": "http://md-dermaroller.com/castan-ro"
+          },
+          "/garcinia-sonya": {
+            "description": "(Fructele Goji,PRE-L)",
+            "linkTo": "http://md-dermaroller.com/garcinia-sonya"
+          },
+          "/test2": {
+            "description": "(void)",
+            "linkTo": "http://md-dermaroller.com/test2"
+          },
+          "/castan-ru": {
+            "description": "(Жидкий каштан,L)",
+            "linkTo": "http://md-dermaroller.com/castan-ru"
+          },
+          "/valguspro": {
+            "description": "(Valgus Pro,L)",
+            "linkTo": "http://md-dermaroller.com/valguspro"
+          }
+        }
+      },
+      "md.muscleg.com": {
+        "description": "null",
+        "linkTo": "http://md.muscleg.com/",
+        "subdirs": {
+          "/ro": {
+            "description": "null",
+            "linkTo": "http://md.muscleg.com/ro"
+          }
+        }
+      },
+      "sk.muscleg.com": {
+        "description": "null",
+        "linkTo": "http://sk.muscleg.com/"
+      },
+      "cz.muscleg.com": {
+        "description": "null",
+        "linkTo": "http://cz.muscleg.com/"
+      },
+      "monasterychai.com": {
+        "description": "null",
+        "linkTo": "http://monasterychai.com/"
+      },
+      "style-md.com": {
+        "description": "null",
+        "linkTo": "http://style-md.com/",
+        "subdirs": {
+          "/collapro": {
+            "description": "(collapro mask,L)",
+            "linkTo": "http://style-md.com/collapro"
+          },
+          "/garcinia": {
+            "description": "(Fructele Goji,PRE-L)",
+            "linkTo": "http://style-md.com/garcinia"
+          },
+          "/initializr2": {
+            "description": "(juicylips,L)",
+            "linkTo": "http://style-md.com/initializr2"
+          },
+          "/lstar-ru1": {
+            "description": "(Latina Star,L)",
+            "linkTo": "http://style-md.com/lstar-ru1"
+          },
+          "/sosusocksa": {
+            "description": "(SOSU,L)",
+            "linkTo": "http://style-md.com/sosusocksa"
+          },
+          "/dietgum": {
+            "description": "(dietgum,L)",
+            "linkTo": "http://style-md.com/dietgum"
+          },
+          "/hairoil": {
+            "description": "(Hair Life,L)",
+            "linkTo": "http://style-md.com/hairoil"
+          },
+          "/juicylips": {
+            "description": "(juicylips,L)",
+            "linkTo": "http://style-md.com/juicylips"
+          },
+          "/salon-spa": {
+            "description": "(Boost Cream,PRE-L)",
+            "linkTo": "http://style-md.com/salon-spa"
+          },
+          "/sosusocksb": {
+            "description": "(SOSU,L)",
+            "linkTo": "http://style-md.com/sosusocksb"
+          },
+          "/dietgum-ru": {
+            "description": "(dietgum,L)",
+            "linkTo": "http://style-md.com/dietgum-ru"
+          },
+          "/ksb55": {
+            "description": "(ksb55,L)",
+            "linkTo": "http://style-md.com/ksb55"
+          },
+          "/sosusocks": {
+            "description": "(SOSU,L)",
+            "linkTo": "http://style-md.com/sosusocks"
+          },
+          "/sosusocksc": {
+            "description": "(SOSU,L)",
+            "linkTo": "http://style-md.com/sosusocksc"
+          },
+          "/ganoderma": {
+            "description": "(Ganoderma,L)",
+            "linkTo": "http://style-md.com/ganoderma"
+          },
+          "/initializr": {
+            "description": "(juicylips,L)",
+            "linkTo": "http://style-md.com/initializr"
+          },
+          "/ksb55-ro": {
+            "description": "(ksb55,L)",
+            "linkTo": "http://style-md.com/ksb55-ro"
+          },
+          "/sosusocks-ro": {
+            "description": "(SOSU,L)",
+            "linkTo": "http://style-md.com/sosusocks-ro"
+          },
+          "/test": {
+            "description": "(dermaroller,L)",
+            "linkTo": "http://style-md.com/test"
+          }
+        }
+      },
+      "filtergeyser.com": {
+        "description": "null",
+        "linkTo": "http://filtergeyser.com/",
+        "subdirs": {
+          "/geyser-responsive": {
+            "description": "(geyser,L)",
+            "linkTo": "http://filtergeyser.com/geyser-responsive"
+          },
+          "/ro.old": {
+            "description": "(geyser,L)",
+            "linkTo": "http://filtergeyser.com/ro.old"
+          },
+          "/ro": {
+            "description": "(geyser,L)",
+            "linkTo": "http://filtergeyser.com/ro"
+          }
+        }
+      },
+      "juicylips-md.com": {
+        "description": "null",
+        "linkTo": "http://juicylips-md.com/"
+      },
+      "oldjuicylips-md.com": {
+        "description": "null",
+        "linkTo": "http://oldjuicylips-md.com/",
+        "subdirs": {
+          "/ru": {
+            "description": "null",
+            "linkTo": "http://oldjuicylips-md.com/ru"
+          }
+        }
+      },
+      "hairlife-md.com": {
+        "description": "null",
+        "linkTo": "http://hairlife-md.com/",
+        "subdirs": {
+          "/ro-rose": {
+            "description": "(HAIR LIFE,L)",
+            "linkTo": "http://hairlife-md.com/ro-rose"
+          },
+          "/ro": {
+            "description": "(HAIR LIFE,L)",
+            "linkTo": "http://hairlife-md.com/ro"
+          },
+          "/ro2": {
+            "description": "(HAIR LIFE,L)",
+            "linkTo": "http://hairlife-md.com/ro2"
+          }
+        }
+      },
+      "jurnalsanatate.com": {
+        "description": "null",
+        "linkTo": "http://jurnalsanatate.com/",
+        "subdirs": {
+          "/alina_blog": {
+            "description": "(SOSU,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/alina_blog"
+          },
+          "/buletin1": {
+            "description": "(Fructele Goji,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/buletin1"
+          },
+          "/buletin2": {
+            "description": "(Fructele Goji,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/buletin2"
+          },
+          "/ganoderma": {
+            "description": "(ganoderma,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/ganoderma"
+          },
+          "/mg-ro": {
+            "description": "(muscleg,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/mg-ro"
+          },
+          "/tatiana": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/tatiana"
+          },
+          "/alinablog": {
+            "description": "(SOSU,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/alinablog"
+          },
+          "/ganoderma-ru2": {
+            "description": "(Ganoderma,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/ganoderma-ru2"
+          },
+          "/olya_blog": {
+            "description": "(SOSU,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/olya_blog"
+          },
+          "/test-ads": {
+            "description": "(void)",
+            "linkTo": "http://jurnalsanatate.com/test-ads"
+          },
+          "/blog_pedichiura": {
+            "description": "(SOSU,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/blog_pedichiura"
+          },
+          "/collapro-ru1": {
+            "description": "(collapro mask,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/collapro-ru1"
+          },
+          "/ganoderma_old": {
+            "description": "(Ganoderma,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/ganoderma_old"
+          },
+          "/otilia_blog": {
+            "description": "(SOSU,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/otilia_blog"
+          },
+          "/valguspro": {
+            "description": "(Valgus Pro,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/valguspro"
+          },
+          "/blog_pedikyur": {
+            "description": "(SOSU,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/blog_pedikyur"
+          },
+          "/ec1": {
+            "description": "(Eyes Cover,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/ec1"
+          },
+          "/ec2": {
+            "description": "(Eyes Cover,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/ec2"
+          },
+          "/gumblg-ru2": {
+            "description": "(dietgum,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/gumblg-ru2"
+          },
+          "/tanea": {
+            "description": "(HAIR LIFE,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/tanea"
+          },
+          "/georgeta_blog": {
+            "description": "(SOSU,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/georgeta_blog"
+          },
+          "/ozana-bkup": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/ozana-bkup"
+          },
+          "/valguspro1": {
+            "description": "(Valgus Pro,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/valguspro1"
+          },
+          "/buletin": {
+            "description": "(Fructele Goji,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/buletin"
+          },
+          "/buletin-ru": {
+            "description": "(Fructele Goji,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/buletin-ru"
+          },
+          "/ekaterina": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/ekaterina"
+          },
+          "/gumblg2": {
+            "description": "(dietgum,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/gumblg2"
+          },
+          "/tanea-ro": {
+            "description": "(Mega Hair,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/tanea-ro"
+          },
+          "/buletin-ru1": {
+            "description": "(Fructele Goji,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/buletin-ru1"
+          },
+          "/ekaterina-ru": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/ekaterina-ru"
+          },
+          "/tanea-ro2": {
+            "description": "(Mega Hair,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/tanea-ro2"
+          },
+          "/buletin-ru2": {
+            "description": "null",
+            "linkTo": "http://jurnalsanatate.com/buletin-ru2"
+          },
+          "/galina-blog": {
+            "description": "(SOSU,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/galina-blog"
+          },
+          "/mariag": {
+            "description": "(Fructele Goji,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/mariag"
+          },
+          "/tanea-ru": {
+            "description": "(Hair Life,PRE-L)",
+            "linkTo": "http://jurnalsanatate.com/tanea-ru"
+          }
+        }
+      },
+      "personalxblog.com": {
+        "description": "null",
+        "linkTo": "http://personalxblog.com/",
+        "subdirs": {
+          "/alco-blog": {
+            "description": "(Монастырский чай,PRE-L)",
+            "linkTo": "http://personalxblog.com/alco-blog"
+          },
+          "/gepa2": {
+            "description": "(Монастырский чай,PRE-L)",
+            "linkTo": "http://personalxblog.com/description"
+          },
+          "/hairlife-md.com": {
+            "description": "(Hair Life,L)",
+            "linkTo": "http://personalxblog.com/hairlife-md.com"
+          },
+          "/ksenia-ro": {
+            "description": "(Boost Cream,PRE-L)",
+            "linkTo": "http://personalxblog.com/ksenia-ro"
+          },
+          "/beautyzone": {
+            "description": "(Miracle Oil,PRE-L)",
+            "linkTo": "http://personalxblog.com/beautyzone"
+          },
+          "/gip-malysheva": {
+            "description": "(Монастырский чай,PRE-L)",
+            "linkTo": "http://personalxblog.com/gip-malysheva"
+          },
+          "/ksenia-ru": {
+            "description": "(Boost Cream,PRE-L)",
+            "linkTo": "http://personalxblog.com/ksenia-ru"
+          },
+          "/castan1": {
+            "description": "(Жидкий каштан,PRE-L)",
+            "linkTo": "http://personalxblog.com/castan1"
+          },
+          "/gumblg": {
+            "description": "(dietgum,PRE-L)",
+            "linkTo": "http://personalxblog.com/gumblg"
+          },
+          "/ksb": {
+            "description": "(КСБ-55,PRE-L)",
+            "linkTo": "http://personalxblog.com/ksb"
+          },
+          "/prost-journal-health": {
+            "description": "(Монастырский чай,PRE-L)",
+            "linkTo": "http://personalxblog.com/prost-journal-health"
+          },
+          "/castan2": {
+            "description": "(Жидкий каштан,PRE-L)",
+            "linkTo": "http://personalxblog.com/castan2"
+          },
+          "/gumblg-ru": {
+            "description": "(dietgum,PRE-L)",
+            "linkTo": "http://personalxblog.com/gumblg-ru"
+          },
+          "/ksb-ro": {
+            "description": "(КСБ-55,PRE-L)",
+            "linkTo": "http://personalxblog.com/ksb-ro"
+          },
+          "/tea-lykova": {
+            "description": "(Монастырский чай,PRE-L)",
+            "linkTo": "http://personalxblog.com/tea-lykova"
+          }
+        }
+      },
+      "m.juicylips-md.com": {
+        "description": "null",
+        "linkTo": "http://m.juicylips-md.com/",
+        "subdirs": {
+          "/ru": {
+            "description": "null",
+            "linkTo": "http://m.juicylips-md.com/ru"
+          }
+        }
+      },
+      "pl.muscleg.com": {
+        "description": "null",
+        "linkTo": "http://pl.muscleg.com/"
+      }
+    },
+    "178.62.255.188": {
+      "description": "null",
+      "biohealthylook.com": {
+        "description": "null",
+        "linkTo": "http://biohealthylook.com/",
+        "subdirs": {
+          "/kawa": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://biohealthylook.com/kawa"
+          },
+          "/valgus-sk": {
+            "description": "(Valgus Pro,L)",
+            "linkTo": "http://biohealthylook.com/valgus-sk"
+          },
+          "/valguspro": {
+            "description": "(Valgus Pro,L)",
+            "linkTo": "http://biohealthylook.com/valguspro"
+          }
+        }
+      },
+      "pozyteczne-rady.com": {
+        "description": "null",
+        "linkTo": "http://pozyteczne-rady.com/",
+        "subdirs": {
+          "/valguspro": {
+            "description": "(Valgus Pro,PRE-L)",
+            "linkTo": "http://pozyteczne-rady.com/valguspro"
+          }
+        }
+      },
+      "pl-valgus.com": {
+        "description": "null",
+        "linkTo": "http://pl-valgus.com/"
+      },
+      "slimblog.me": {
+        "description": "(void)",
+        "linkTo": "http://slimblog.me/",
+        "subdirs": {
+          "/suzanna": {
+            "description": "(void)",
+            "linkTo": "http://slimblog.me/suzanna"
+          }
+        }
+      }
+    },
+    "178.62.158.116": {
+      "description": "null",
+      "ihealthynow.com": {
+        "description": "null",
+        "linkTo": "http://ihealthynow.com/",
+        "subdirs": {
+          "/coffee": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://ihealthynow.com/coffee"
+          },
+          "/coffeesk": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://ihealthynow.com/coffeesk"
+          }
+        }
+      },
+      "uspesnazena.info": {
+        "description": "(void)",
+        "linkTo": "http://uspesnazena.info/"
+      }
+    },
+    "188.226.242.169": {
+      "description": "null",
+      "a.bg-valgus.com": {
+        "description": "null",
+        "linkTo": "http://a.bg-valgus.com/"
+      },
+      "cz.maxpotent.com": {
+        "description": "null",
+        "linkTo": "http://cz.maxpotent.com/"
+      },
+      "pl.problogbeauty.": {
+        "description": "null",
+        "linkTo": "http://pl.problogbeauty/",
+        "subdirs": {
+          "/angi-pl": {
+            "description": "(dietgum,PRE-L)",
+            "linkTo": "http://pl.problogbeauty/angi-pl"
+          },
+          "/sylwia": {
+            "description": "(boost cream,PRE-L)",
+            "linkTo": "http://pl.problogbeauty/sylwia"
+          }
+        }
+      },
+      "agirlsdiary.net": {
+        "description": "null",
+        "linkTo": "http://agirlsdiary.net/",
+        "/alina": {
+          "description": "(JuicyLips,PRE-L)",
+          "linkTo": "http://agirlsdiary.net/alina"
+        },
+        "/alina-ru": {
+          "description": "(JuicyLips,PRE-L)",
+          "linkTo": "http://agirlsdiary.net/alina-ru"
+        },
+        "/kat2611._old": {
+          "description": "(Cafeaua Verde,PRE-L)",
+          "linkTo": "http://agirlsdiary.net/kat2611._old"
+        },
+        "/katerina._old": {
+          "description": "(Cafeaua Verde,PRE-L)",
+          "linkTo": "http://agirlsdiary.net/katerina._old"
+        },
+        "/katerina1._old": {
+          "description": "(Cafeaua Verde,PRE-L)",
+          "linkTo": "http://agirlsdiary.net/katerina1._old"
+        }
+      },
+      "cz.mhairoil.com": {
+        "description": "null",
+        "linkTo": "http://cz.mhairoil.com/",
+        "subdirs": {
+          "/vr2": {
+            "description": "(Mega Hair,L)",
+            "linkTo": "http://cz.mhairoil.com/vr2"
+          }
+        }
+      },
+      "pl.prodermaroller.com": {
+        "description": "null",
+        "linkTo": "http://pl.prodermaroller.com//"
+      },
+      "beauty-fashion-bg.com": {
+        "description": "null",
+        "linkTo": "http://beauty-fashion-bg.com/",
+        "subdirs": {
+          "/dietgum": {
+            "description": "(dietgum,L)",
+            "linkTo": "http://beauty-fashion-bg.com/dietgum"
+          },
+          "/goji": {
+            "description": "(goji,L)",
+            "linkTo": "http://beauty-fashion-bg.com/goji"
+          },
+          "/mhair": {
+            "description": "(Mega Hair,L)",
+            "linkTo": "http://beauty-fashion-bg.com/mhair"
+          }
+        }
+      },
+      "cz.problogbeauty.com": {
+        "description": "null",
+        "linkTo": "http://cz.problogbeauty.com/",
+        "subdirs": {
+          "/adela": {
+            "description": "(Mega Hair,PRE-L)",
+            "linkTo": "http://cz.problogbeauty.com/"
+          },
+          "/coffee": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://cz.problogbeauty.com/"
+          },
+          "/vanesa": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://cz.problogbeauty.com/"
+          },
+          "/xena": {
+            "description": "(boost cream,PRE-L)",
+            "linkTo": "http://cz.problogbeauty.com/"
+          }
+        }
+      },
+      "polezni-saveti.info": {
+        "description": "null",
+        "linkTo": "http://polezni-saveti.info/",
+        "subdirs": {
+          "/bg-hairlife": {
+            "description": "(void)",
+            "linkTo": "http://polezni-saveti.info/bg-hairlife"
+          },
+          "/ec2": {
+            "description": "(Eyes Cover,PRE-L)",
+            "linkTo": "http://polezni-saveti.info/ec2"
+          },
+          "/gelena": {
+            "description": "(goji,PRE-L)",
+            "linkTo": "http://polezni-saveti.info/gelena"
+          },
+          "/muscle1": {
+            "description": "(muscleg,PRE-L)",
+            "linkTo": "http://polezni-saveti.info/muscle1"
+          },
+          "/valguspro": {
+            "description": "(redirect)",
+            "linkTo": "http://polezni-saveti.info/valguspro"
+          },
+          "/zerosmoke": {
+            "description": "(ZEROSMOKE,L)",
+            "linkTo": "http://polezni-saveti.info/zerosmoke"
+          },
+          "/ec1": {
+            "description": "(eyescover,PRE-L)",
+            "linkTo": "http://polezni-saveti.info/ec1"
+          },
+          "/eli-bg": {
+            "description": "(Mega Hair,PRE-L)",
+            "linkTo": "http://polezni-saveti.info/eli-bg"
+          },
+          "/goji": {
+            "description": "(goji,PRE-L)",
+            "linkTo": "http://polezni-saveti.info/goji"
+          },
+          "/mhair": {
+            "description": "(Mega Hair,PRE-L)",
+            "linkTo": "http://polezni-saveti.info/mhair"
+          },
+          "/poli": {
+            "description": "(dietgum,PRE-L)",
+            "linkTo": "http://polezni-saveti.info/poli"
+          },
+          "/zeros": {
+            "description": "(zerosmoke,PRE-L)",
+            "linkTo": "http://polezni-saveti.info/zeros"
+          }
+        }
+      },
+      "bg-valgus.com": {
+        "description": "null",
+        "linkTo": "http://bg-valgus.com/"
+      },
+      "cz.prodermaroller.com": {
+        "description": "null",
+        "linkTo": "http://cz.prodermaroller.com/"
+      },
+      "prodermaroller.com/bg/": {
+        "description": "(maxpotent,L)",
+        "linkTo": "http://prodermaroller.com/bg/"
+      },
+      "bg.beauty-journal.eu": {
+        "description": "null",
+        "linkTo": "http://bg.beauty-journal.eu/"
+      },
+      "cz.zero-smoke.net": {
+        "description": "null",
+        "linkTo": "http://cz.zero-smoke.net/"
+      },
+      "ro.bustcream-spa.com": {
+        "description": "null",
+        "linkTo": "http://ro.bustcream-spa.com/",
+        "subdirs": {
+          "/ro": {
+            "description": "(boost cream,L)",
+            "linkTo": "http://ro.bustcream-spa.com/ro"
+          }
+        }
+      },
+      "bg.bustcream-spa.com": {
+        "description": "null",
+        "linkTo": "http://bg.bustcream-spa.com/"
+      },
+      "diet-gum.eu": {
+        "description": "null",
+        "linkTo": "http://diet-gum.eu/"
+      },
+      "ro.problogbeauty.com": {
+        "description": "null",
+        "linkTo": "http://ro.problogbeauty.com/"
+      },
+      "bg.eliteblognow.com": {
+        "description": "(maxpotent,PRE-L)",
+        "linkTo": "http://bg.eliteblognow.com/"
+      },
+      "eliteblognow.com": {
+        "description": "null",
+        "linkTo": "http://eliteblognow.com/",
+        "subdirs": {
+          "/bg-blog": {
+            "description": "(maxpotent,PRE-L)",
+            "linkTo": "http://eliteblognow.com/bg-blog"
+          },
+          "/emily": {
+            "description": "(mega hair,PRE-L)",
+            "linkTo": "http://eliteblognow.com/emily"
+          },
+          "/muscle-sk": {
+            "description": "(muscleg,PRE-L)",
+            "linkTo": "http://eliteblognow.com/muscle-sk"
+          },
+          "/silvia-ro": {
+            "description": "(maxpotent,PRE-L)",
+            "linkTo": "http://eliteblognow.com/silvia-ro"
+          },
+          "/sylvy-sk": {
+            "description": "(maxpotent,PRE-L)",
+            "linkTo": "http://eliteblognow.com/sylvy-sk"
+          },
+          "/taylor": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://eliteblognow.com/taylor"
+          },
+          "/bg-lover": {
+            "description": "(maxpotent,PRE-L)",
+            "linkTo": "http://eliteblognow.com/bg-lover"
+          },
+          "/greencoffeeuh": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://eliteblognow.com/greencoffeeuh"
+          },
+          "/silvia-md": {
+            "description": "(maxpotent,PRE-L)",
+            "linkTo": "http://eliteblognow.com/silvia-md"
+          },
+          "/sylvy-cz": {
+            "description": "(maxpotent,PRE-L)",
+            "linkTo": "http://eliteblognow.com/sylvy-cz"
+          },
+          "/sylwi-pl": {
+            "description": "(maxpotent,PRE-L)",
+            "linkTo": "http://eliteblognow.com/sylwi-pl"
+          }
+        }
+      },
+      "ro.prodermaroller.com": {
+        "description": "null",
+        "linkTo": "http://ro.prodermaroller.com/"
+      },
+      "bg.maxpotent.com": {
+        "description": "null",
+        "linkTo": "http://bg.maxpotent.com/"
+      },
+      "foodforshape.com": {
+        "description": "null",
+        "linkTo": "http://foodforshape.com/",
+        "subdirs": {
+          "/Green_Coffee_HU": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://foodforshape.com/Green_Coffee_HU"
+          },
+          "/dietgum": {
+            "description": "(dietgum,L)",
+            "linkTo": "http://foodforshape.com/dietgum"
+          },
+          "/ginger.old": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://foodforshape.com/ginger.old"
+          },
+          "/goji": {
+            "description": "(goji,L)",
+            "linkTo": "http://foodforshape.com/goji"
+          },
+          "/diet-gum.eu": {
+            "description": "(goji,L)",
+            "linkTo": "http://foodforshape.com/diet-gum.eu"
+          },
+          "/bg": {
+            "description": "(dietgum,L)",
+            "linkTo": "http://foodforshape.com/bg"
+          },
+          "/ginger": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://foodforshape.com/ginger"
+          },
+          "/ginger.old2": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://foodforshape.com/ginger.old2"
+          },
+          "/goji-tr": {
+            "description": "(goji,L)",
+            "linkTo": "http://foodforshape.com/goji-tr"
+          },
+          "/pl": {
+            "description": "(goji,PRE-L)",
+            "linkTo": "http://foodforshape.com/pl"
+          }
+        }
+      },
+      "sfaturi-utile.com": {
+        "description": "null",
+        "linkTo": "http://sfaturi-utile.com/"
+      },
+      "bg.mhairoil.com": {
+        "description": "null",
+        "linkTo": "http://bg.mhairoil.com/"
+      },
+      "sk.bustcream-spa.com": {
+        "description": "null",
+        "linkTo": "http://sk.bustcream-spa.com/"
+      },
+      "bg.problogbeauty.com": {
+        "description": "null",
+        "linkTo": "http://bg.problogbeauty.com/",
+        "subdirs": {
+          "/birth-bg": {
+            "description": "(goji,PRE-L)",
+            "linkTo": "http://bg.problogbeauty.com/birth-bg"
+          },
+          "/doc-bg": {
+            "description": "(goji,PRE-L)",
+            "linkTo": "http://bg.problogbeauty.com/doc-bg"
+          },
+          "/ksiusha": {
+            "description": "(Boost Cream,PRE-L)",
+            "linkTo": "http://bg.problogbeauty.com/ksiusha"
+          }
+        }
+      },
+      "maxpotent.com": {
+        "description": "null",
+        "linkTo": "http://maxpotent.com/",
+        "subdirs": {
+          "/bg": {
+            "description": "(maxpotent,L)",
+            "linkTo": "http://maxpotent.com/bg"
+          },
+          "/cz": {
+            "description": "(maxpotent,L)",
+            "linkTo": "http://maxpotent.com/cz"
+          },
+          "/md-ro": {
+            "description": "(maxpotent,L)",
+            "linkTo": "http://maxpotent.com/md-ro"
+          },
+          "/pl": {
+            "description": "(maxpotent,L)",
+            "linkTo": "http://maxpotent.com/pl"
+          },
+          "/ro": {
+            "description": "(maxpotent,L)",
+            "linkTo": "http://maxpotent.com/ro"
+          },
+          "/sk": {
+            "description": "(maxpotent,L)",
+            "linkTo": "http://maxpotent.com/sk"
+          }
+        }
+      },
+      "sk.problogbeauty.com": {
+        "description": "null",
+        "linkTo": "http://sk.problogbeauty.com/"
+      },
+      "bg.prodermaroller.com": {
+        "description": "null",
+        "linkTo": "http://bg.prodermaroller.com/"
+      },
+      "md.bustcream-spa.com": {
+        "description": "null",
+        "linkTo": "http://md.bustcream-spa.com/"
+      },
+      "sk.prodermaroller.com": {
+        "description": "null",
+        "linkTo": "http://sk.prodermaroller.com/"
+      },
+      "bg.zero-smoke.net": {
+        "description": "null",
+        "linkTo": "http://bg.zero-smoke.net/"
+      },
+      "md.prodermaroller.com": {
+        "description": "null",
+        "linkTo": "http://md.prodermaroller.com/",
+        "subdirs": {
+          "/old": {
+            "description": "(dermaroller,L)",
+            "linkTo": "http://md.prodermaroller.com/old"
+          }
+        }
+      },
+      "sk.zero-smoke.net": {
+        "deascription": "null",
+        "linkTo": "http://sk.zero-smoke.net/"
+      },
+      "blogdoc.info": {
+        "deascription": "null",
+        "linkTo": "http://blogdoc.info/"
+      },
+      "pl.bustcream-spa.com": {
+        "description": "null",
+        "linkTo": "http://pl.bustcream-spa.com/"
+      },
+      "uk.mhairoil.com": {
+        "description": "null",
+        "linkTo": "http://uk.mhairoil.com/"
+      },
+      "cz.bustcream-spa.com": {
+        "description": "null",
+        "linkTo": "http://cz.bustcream-spa.com/"
+      },
+      "pl.diet-gum.eu": {
+        "description": "null",
+        "linkTo": "http://pl.diet-gum.eu/"
+      },
+      "cz.diet-gum.eu": {
+        "description": "null",
+        "linkTo": "http://cz.diet-gum.eu/"
+      },
+      "pl.maxpotent.com": {
+        "description": "null",
+        "linkTo": "http://pl.maxpotent.com/"
+      }
+    },
+    "188.226.171.207": {
+      "cz-valgus.com": {
+        "description": "null",
+        "linkTo": "http://cz-valgus.com/"
+      },
+      "slimexpressnow.com": {
+        "description": "null",
+        "linkTo": "http://slimexpressnow.com/",
+        "subdirs": {
+          "/coffe": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://slimexpressnow.com/coffe"
+          },
+          "/cz": {
+            "description": "(Cafeaua Verde,L)",
+            "linkTo": "http://slimexpressnow.com/cz"
+          },
+          "/dietgum-cz": {
+            "description": "(dietgum,L)",
+            "linkTo": "http://slimexpressnow.com/dietgum-cz"
+          },
+          "/goji-cz": {
+            "description": "(goji,L)",
+            "linkTo": "http://slimexpressnow.com/goji-cz"
+          }
+        }
+      },
+      "uzitecne-tipy.com": {
+        "description": "null",
+        "linkTo": "http://uzitecne-tipy.com/",
+        "subdirs": {
+          "/bodyfix-cz": {
+            "description": "(muscleg,PRE-L)",
+            "linkTo": "http://uzitecne-tipy.com/"
+          },
+          "/mhair": {
+            "description": "(mega hair,PRE-L)",
+            "linkTo": "http://uzitecne-tipy.com/"
+          },
+          "/polina": {
+            "description": "(dietgum,PRE-L)",
+            "linkTo": "http://uzitecne-tipy.com/"
+          },
+          "/valgus": {
+            "description": "(valgus pro,PRE-L)",
+            "linkTo": "http://uzitecne-tipy.com/"
+          },
+          "/zeros": {
+            "description": "(zerosmoke,PRE-L)",
+            "linkTo": "http://uzitecne-tipy.com/"
+          }
+        }
+      },
+      "dieta-klub.com": {
+        "description": "null",
+        "linkTo": "http://dieta-klub.com/",
+        "subdirs": {
+          "/coffee-sk": {
+            "description": "(Cafeaua Verde,PRE-L)",
+            "linkTo": "http://dieta-klub.com/coffee-sk"
+          },
+          "/polina": {
+            "description": "(dietgum,PRE-L)",
+            "linkTo": "http://dieta-klub.com/polina"
+          }
+        }
+      },
+      "sk-valgus.com": {
+        "description": "null",
+        "linkTo": "http://sk-valgus.com/"
+      },
+      "stone-dream.cz": {
+        "description": "null",
+        "linkTo": "http://stone-dream.cz/",
+        "subdirs": {
+          "/cz.mhairoil.com": {
+            "description": "(Mega Hair,L)",
+            "linkTo": "http://stone-dream.cz/cz.mhairoil.com"
+          },
+          "/pre-valgus": {
+            "description": "(valgus pro,PRE-L)",
+            "linkTo": "http://stone-dream.cz/pre-valgus"
+          },
+          "/landing": {
+            "description": "(dietgum,PRE-L)",
+            "linkTo": "http://stone-dream.cz/landing"
+          },
+          "/pre-zerosmoke": {
+            "description": "(void)",
+            "linkTo": "http://stone-dream.cz/pre-zerosmoke"
+          },
+          "/valgus": {
+            "description": "(void,PRE-L)",
+            "linkTo": "http://stone-dream.cz/valgus"
+          },
+          "/zerosmoke": {
+            "description": "(void,PRE-L)",
+            "linkTo": "http://stone-dream.cz/zerosmoke"
+          }
+        }
+      }
+    },
+    "178.62.223.149": {
+      "damskiiclub.com": {
+        "description": "null",
+        "linkTo": "http://damskiiclub.com/",
+        "subdirs": {
+          "/alina_blog": {
+            "description": "(sosu,PRE-L)",
+            "linkTo": "http://damskiiclub.com/alina_blog"
+          },
+          "/dep_health_UA": {
+            "description": "(valgus pro,PRE-L)",
+            "linkTo": "http://damskiiclub.com/dep_health_UA"
+          },
+          "/ganoderma-ru2": {
+            "description": "(Ganoderma,L)",
+            "linkTo": "http://damskiiclub.com/ganoderma-ru2"
+          },
+          "/maria": {
+            "description": "(goji,PRE-L)",
+            "linkTo": "http://damskiiclub.com/maria"
+          },
+          "/sharkcream-ro": {
+            "description": "(shark cream,L)",
+            "linkTo": "http://damskiiclub.com/sharkcream-ro"
+          },
+          "/blog_pedikyur": {
+            "description": "(SOSU,PRE-L)",
+            "linkTo": "http://damskiiclub.com/blog_pedikyur"
+          },
+          "/galina-blog": {
+            "description": "(SOSU,PRE-L)",
+            "linkTo": "http://damskiiclub.com/galina-blog"
+          },
+          "/ls-ru": {
+            "description": "(latina star,PRE-L)",
+            "linkTo": "http://damskiiclub.com/ls-ru"
+          },
+          "/olya_blog": {
+            "description": "(SOSU,PRE-L)",
+            "linkTo": "http://damskiiclub.com/olya_blog"
+          },
+          "/valguspro_2": {
+            "description": "(valgus pro,PRE-L)",
+            "linkTo": "http://damskiiclub.com/valguspro_2"
+          },
+          "/bunion": {
+            "description": "(bunionfix,PRE-L)",
+            "linkTo": "http://damskiiclub.com/bunion"
+          },
+          "/ganoderma-ru": {
+            "description": "(Ganoderma,L)",
+            "linkTo": "http://damskiiclub.com/ganoderma-ru"
+          },
+          "/mall_health": {
+            "description": "(valgus pro,PRE-L)",
+            "linkTo": "http://damskiiclub.com/mall_health"
+          },
+          "/sharkcream": {
+            "description": "(shark cream,PRE-L)",
+            "linkTo": "http://damskiiclub.com/sharkcream"
+          }
+        }
+      },
+      "ibeautyshops.com": {
+        "description": "null",
+        "linkTo": "http://ibeautyshops.com/",
+        "subdirs": {
+          "/blog_hudey_tanya": {
+            "description": "(goji,PRE-L)",
+            "linkTo": "http://ibeautyshops.com/blog_hudey_tanya"
+          },
+          "/goji": {
+            "description": "(goji,L)",
+            "linkTo": "http://ibeautyshops.com/goji"
+          },
+          "/goji2": {
+            "description": "(goji,L)",
+            "linkTo": "http://ibeautyshops.com/goji2"
+          },
+          "/goji5": {
+            "description": "(goji,L)",
+            "linkTo": "http://ibeautyshops.com/goji5"
+          },
+          "/goji8": {
+            "description": "(shark cream,PRE-L)",
+            "linkTo": "http://ibeautyshops.com/goji8"
+          },
+          "/sosusocksa": {
+            "description": "(SOSU,L)",
+            "linkTo": "http://ibeautyshops.com/sosusocksa"
+          },
+          "/syabitova": {
+            "description": "(goji,PRE-L)",
+            "linkTo": "http://ibeautyshops.com/syabitova"
+          },
+          "/dom2": {
+            "description": "(goji,PRE-L)",
+            "linkTo": "http://ibeautyshops.com/dom2"
+          },
+          "/goji1": {
+            "description": "(goji,L)",
+            "linkTo": "http://ibeautyshops.com/goji1"
+          },
+          "/goji3": {
+            "description": "(goji,L)",
+            "linkTo": "http://ibeautyshops.com/goji3"
+          },
+          "/goji6": {
+            "description": "(goji,L)",
+            "linkTo": "http://ibeautyshops.com/goji6"
+          },
+          "/goji9": {
+            "description": "(goji,L)",
+            "linkTo": "http://ibeautyshops.com/goji9"
+          },
+          "/sosusocksb": {
+            "description": "(SOSU,L)",
+            "linkTo": "http://ibeautyshops.com/sosusocksb"
+          },
+          "/valgus": {
+            "description": "(valgus pro,L)",
+            "linkTo": "http://ibeautyshops.com/valgus"
+          },
+          "/eyescover-bg": {
+            "description": "(Eyes Cover,L)",
+            "linkTo": "http://ibeautyshops.com/eyescover-bg"
+          },
+          "/goji10": {
+            "description": "(goji,L)",
+            "linkTo": "http://ibeautyshops.com/goji10"
+          },
+          "/goji4": {
+            "description": "(goji,L)",
+            "linkTo": "http://ibeautyshops.com/goji4"
+          },
+          "/goji7": {
+            "description": "(goji,L)",
+            "linkTo": "http://ibeautyshops.com/goji7"
+          },
+          "/sosusocks": {
+            "description": "(SOSU,L)",
+            "linkTo": "http://ibeautyshops.com/sosusocks"
+          },
+          "/sosusocksc": {
+            "description": "(SOSU,L)",
+            "linkTo": "http://ibeautyshops.com/sosusocksc"
+          },
+          "/valgus-sk": {
+            "description": "(valgus pro,L)",
+            "linkTo": "http://ibeautyshops.com/valgus-sk"
+          }
+        }
+      }
+    }
+  }
+}
